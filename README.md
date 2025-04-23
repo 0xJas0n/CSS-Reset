@@ -18,13 +18,13 @@ A lightweight, forward-thinking CSS reset that provides a clean foundation for m
 
 1. Copy the CSS into your project:
 2. Add it to your HTML:
-    
+
     ```html
     <link rel="stylesheet" href="path/to/reset.css">
     ```
 
     Or import it in your main CSS file:
-    
+
     ```css
     @import 'path/to/reset.css';
     ```
