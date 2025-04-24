@@ -52,6 +52,10 @@ img, picture, video, canvas, svg {
     max-width: 100%; /* Improve media defaults */
 }
 
+img {
+    font-style: italic; /* Improve alt text on broken images */
+}
+
 /* 5. Forms
    ========================================================================== */
 input, button, textarea, select {
