@@ -72,6 +72,7 @@ a:not([class]) {
 ul[role='list'],
 ol[role='list'] {
     list-style: none; /* Remove styling from semantic lists */
+    padding: 0;
 }
 
 /* 7. Animations & Transitions
